@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".box:first").hide(500).show(500)});
